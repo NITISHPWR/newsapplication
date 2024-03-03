@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "MLB.com"
+            },
+            "author": "Rhett Bollinger",
+            "title": "Ohtani has UCL tear, won't pitch again in '23 - MLB.com",
+            "description": "ANAHEIM -- The Angels were dealt a massive blow on Wednesday, as two-way superstar Shohei Ohtani was diagnosed with a torn ulnar collateral ligament in his right elbow after exiting his start after just 1 1/3 innings in a 9-4 loss in Game 1 of a doubleheader …",
+            "url": "https://www.mlb.com/news/shohei-ohtani-has-tear-in-ucl",
+            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/y7bbol6y10n7en4xwnqa.jpg",
+            "publishedAt": "2023-08-24T08:15:00Z",
+            "content": "ANAHEIM -- The Angels were dealt a massive blow on Wednesday, as two-way superstar Shohei Ohtani was diagnosed with a torn ulnar collateral ligament in his right elbow after exiting his start after j… [+3913 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Niha Masih, Lyric Li, Leo Sands, Ellen Francis",
+            "title": "Prigozhin plane crash live updates: No confirmation of Wagner chief’s death - The Washington Post",
+            "description": "People in Yevgeniy Prigozhin’s hometown of St. Petersburg paid tributes to him as news of the crash spread, but the Kremlin has not confirmed his death.",
+            "url": "https://www.washingtonpost.com/world/2023/08/24/prigozhin-plane-crash-wagner-russia-live-updates/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-23-2023/t_8dbdda1af411481aaec9df7e3b95605d_name_sidebysidecrash.jpg&w=1440",
+            "publishedAt": "2023-08-24T08:09:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ruxandra Iordache",
+            "title": "Emerging markets group BRICS invites 6 new members, including Saudi Arabia and Iran - CNBC",
+            "description": "The BRICS economic coalition of emerging markets has decided to extend membership invitations to six nations.",
+            "url": "https://www.cnbc.com/2023/08/24/emerging-markets-group-brics-invites-6-new-members-including-saudi-arabia-and-iran.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107291287-1692865318722-gettyimages-1619658381-SOUTH_AFRICA_BRICS.jpeg?v=1692865543&w=1920&h=1080",
+            "publishedAt": "2023-08-24T07:59:42Z",
+            "content": "The BRICS economic coalition of emerging markets on Thursday extended membership invitations to six nations, South African President and current BRICS chair Cyril Ramaphosa said.\r\nThe BRICS alliance … [+3741 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Nicole Auerbach",
+            "title": "ACC brass meeting this week as conference seriously considers adding Stanford, Cal, SMU: Sources - The Athletic",
+            "description": "A group of ACC presidents met Wednesday morning to discuss finances, one of the sources said.",
+            "url": "https://theathletic.com/4800635/2023/08/23/acc-cal-stanford-smu-expansion/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/08/07153423/ACC-scaled.jpg",
+            "publishedAt": "2023-08-24T07:33:20Z",
+            "content": "The ACC is seriously considering adding Stanford, Cal and SMU, multiple sources briefed on the discussions said Wednesday. There have been discussions periodically over the past month. Heres what you… [+3078 chars]"
+        }
+    ]
+    }
